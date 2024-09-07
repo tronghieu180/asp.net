@@ -1,0 +1,252 @@
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\baitap_thtkwnc.dll.config
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\baitap_thtkwnc.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\baitap_thtkwnc.pdb
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\csc.exe
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\csc.exe.config
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\csc.rsp
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\csi.exe
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\csi.exe.config
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\csi.rsp
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.AppContext.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.Console.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.IO.Compression.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.Net.Http.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.Net.Sockets.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.ValueTuple.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\vbc.exe
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\vbc.exe.config
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\vbc.rsp
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\VBCSCompiler.exe
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\obj\Debug\baitap_thtkwnc.csproj.AssemblyReference.cache
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\obj\Debug\baitap_thtkwnc.csproj.CoreCompileInputs.cache
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\obj\Debug\baitap_thtkwnc.csproj.CopyComplete
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\obj\Debug\baitap_thtkwnc.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\obj\Debug\baitap_thtkwnc.pdb
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\EntityFramework.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\EntityFramework.SqlServer.dll
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\EntityFramework.xml
+C:\Users\TechCare\Documents\Visual Studio 2019\C#-thaythuan\baitap_thtkwnc\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\baitap_thtkwnc.dll.config
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\baitap_thtkwnc.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\baitap_thtkwnc.pdb
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\baitap_thtkwnc\obj\Debug\baitap_thtkwnc.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\baitap_thtkwnc\obj\Debug\baitap_thtkwnc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\baitap_thtkwnc\obj\Debug\baitap_thtkwnc.csproj.CopyComplete
+C:\Users\Admin\Downloads\baitap_thtkwnc\obj\Debug\baitap_thtkwnc.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\obj\Debug\baitap_thtkwnc.pdb
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\baitap_thtkwnc\bin\roslyn\VBCSCompiler.exe.config
+C:\Code\C#\baitap_thtkwnc\bin\baitap_thtkwnc.dll.config
+C:\Code\C#\baitap_thtkwnc\bin\baitap_thtkwnc.dll
+C:\Code\C#\baitap_thtkwnc\bin\baitap_thtkwnc.pdb
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\csc.exe
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\csc.exe.config
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\csc.rsp
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\csi.exe
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\csi.exe.config
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\csi.rsp
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.AppContext.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.Collections.Immutable.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.Console.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.Globalization.Calendars.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.IO.Compression.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.IO.FileSystem.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.Net.Http.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.Net.Sockets.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.ValueTuple.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.Xml.XPath.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\vbc.exe
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\vbc.exe.config
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\vbc.rsp
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\VBCSCompiler.exe
+C:\Code\C#\baitap_thtkwnc\bin\roslyn\VBCSCompiler.exe.config
+C:\Code\C#\baitap_thtkwnc\bin\EntityFramework.dll
+C:\Code\C#\baitap_thtkwnc\bin\EntityFramework.SqlServer.dll
+C:\Code\C#\baitap_thtkwnc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Code\C#\baitap_thtkwnc\bin\EntityFramework.xml
+C:\Code\C#\baitap_thtkwnc\bin\EntityFramework.SqlServer.xml
+C:\Code\C#\baitap_thtkwnc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Code\C#\baitap_thtkwnc\obj\Debug\baitap_thtkwnc.csproj.AssemblyReference.cache
+C:\Code\C#\baitap_thtkwnc\obj\Debug\baitap_thtkwnc.csproj.CoreCompileInputs.cache
+C:\Code\C#\baitap_thtkwnc\obj\Debug\baitap_thtkwnc.csproj.CopyComplete
+C:\Code\C#\baitap_thtkwnc\obj\Debug\baitap_thtkwnc.dll
+C:\Code\C#\baitap_thtkwnc\obj\Debug\baitap_thtkwnc.pdb
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\baitap_thtkwnc.dll.config
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\baitap_thtkwnc.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\baitap_thtkwnc.pdb
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\csc.exe
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\csc.exe.config
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\csc.rsp
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\csi.exe
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\csi.exe.config
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\csi.rsp
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.AppContext.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.Console.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.IO.Compression.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.Net.Http.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.ValueTuple.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\vbc.exe
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\vbc.exe.config
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\vbc.rsp
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\VBCSCompiler.exe
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\EntityFramework.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\EntityFramework.SqlServer.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\EntityFramework.xml
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\EntityFramework.SqlServer.xml
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\obj\Debug\baitap_thtkwnc.csproj.AssemblyReference.cache
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\obj\Debug\baitap_thtkwnc.csproj.CoreCompileInputs.cache
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\obj\Debug\baitap_thtkwnc.csproj.CopyComplete
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\obj\Debug\baitap_thtkwnc.dll
+C:\Users\PHUONG NAM\Documents\Zalo Received Files\baitap_thtkwnc\obj\Debug\baitap_thtkwnc.pdb
